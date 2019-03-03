@@ -37,7 +37,7 @@
   <string name="activity_main_refresh_fail">Няма връзка с мрежа</string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Обновено %1$s</string>
-  <string name="activity_main_update_time_expire">Данните неса актуални</string>
+  <string name="activity_main_update_time_expire">Данните не са актуални</string>
   <string name="activity_main_update_time_right_now">току-що</string>
   <string name="app_name">Времето M8</string>
   <string name="app_version">Версия: %s</string>
