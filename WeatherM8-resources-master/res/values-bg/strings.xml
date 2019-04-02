@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="act_find_city_hint">Въведи местоположение</string>
+  <string name="act_find_city_hint">Въведете местоположение</string>
   <string name="act_find_city_hot_title">Добави</string>
   <string name="act_set_city_find_side">Търси се…</string>
   <string name="act_set_city_find_side_error">Не може да се определи местоположение</string>
   <string name="act_set_city_swipe_hint">Плъзнете наляво за да изтриете град</string>
   <string name="act_weather_find_city_added">Добавено</string>
   <string name="act_weather_find_city_click_retry">Повторен опит</string>
-  <string name="act_weather_find_city_net_no_good">Няма връзка с мрежа.</string>
+  <string name="act_weather_find_city_net_no_good">"Не може да се свърже с мрежата."</string>
   <string name="act_weather_find_city_no_result">Няма резултати</string>
   <string name="act_weather_find_city_searching">Търсене…</string>
   <string name="activity_detail_time_format">E</string>
@@ -57,7 +57,7 @@
   <string name="daily_forcast_drawer_on_top">Разширена прогноза</string>
   <string name="daily_forcast_no_wind">Тихо</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-  <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
+  <string name="daily_forcast_weather_transfer">%1$s. %2$s по-късно.</string>
   <string name="daily_forcast_whirl_wind">Вихрушка</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="delete">Изтриване</string>
@@ -211,7 +211,7 @@
   <string name="share_weather_desc">\#Weather M8# Днес %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
-  <string name="share_weather_save_pic_fail">Неуспешна снимка на екрана</string>
+  <string name="share_weather_save_pic_fail">"Не може да се направи екранна снимка"</string>
   <string name="sunrise">Изгрев</string>
   <string name="sunset">Залез</string>
   <string name="time_units_hour">ч</string>
@@ -302,4 +302,7 @@
   <string name="settings_notification_background_color_title">Цвят на фона на известието</string>
   <string name="settings_notification_text_color_title">Цвят на текста на известието</string>
   <string name="widget_config_show_update_date_title">Показване на датата на актуализиране</string>
+  <string name="settings_precipitation_unit">Валежи</string>
+  <string name="settings_precipitation_unit_in">инчове</string>
+  <string name="settings_precipitation_unit_mm">мм</string>
 </resources>
