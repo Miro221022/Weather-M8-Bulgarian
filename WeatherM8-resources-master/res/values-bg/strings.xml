@@ -46,7 +46,7 @@
   <string name="aqi_detail_unit">Единица: μg/m³ (CO: mg/m³)</string>
   <string name="aqi_main_publish_time">Обновено в %1$s</string>
   <string name="aqi_main_title">Качество на въздуха</string>
-  <string name="aqi_ring_desc">Индекс на качеството на въздуха</string>
+  <string name="aqi_ring_desc">Индекс за качеството на въздуха</string>
   <string name="aqi_ring_top_pollution">Основни замърсители</string>
   <string name="button_add_city">Добави град</string>
   <string name="button_allow">OK</string>
@@ -87,7 +87,7 @@
   <string name="hourly_forecast_title">Почасова прогноза</string>
   <string name="international_detail_menu_title">Детайли</string>
   <string name="loading_data">Зареждане на данни…</string>
-  <string name="locate_fail_detail_err">Не може да се локализира устройстовото\nЧукнете върху бутона отдолу, за да добавите град ръчно или за ново локализиране</string>
+  <string name="locate_fail_detail_err">Не може да се локализира устройстовото\nЧукнете върху бутона отдолу, за да добавите град ръчно или за повторно локализиране</string>
   <string name="location_management">Местоположение</string>
   <string name="location_tag">Локализиране</string>
   <string name="menu_moon_phases">Фази на Луната</string>
@@ -109,7 +109,7 @@
   <string name="moon_zodiac">Зодиакален знак: %s</string>
   <string name="more_details">Още детайли</string>
   <string name="network_error">Няма връзка със сървъра.\nПроверете настройките на мрежата.</string>
-  <string name="network_in_quiet_hours">Активен е режим Тихи часове. Обновяването е отменено.</string>
+  <string name="network_in_quiet_hours">В момента сте в режим Тихи часове. Актуализациите са отменени.</string>
   <string name="network_in_roaming">Включена е забраната за обновяване в роуминг.</string>
   <string name="network_unavailable">Няма връзка с мрежа.</string>
   <string name="network_wifi_only">Настроено е обновяване само чрез Wi-fi.</string>
@@ -305,4 +305,13 @@
   <string name="settings_precipitation_unit">Валежи</string>
   <string name="settings_precipitation_unit_in">инчове</string>
   <string name="settings_precipitation_unit_mm">мм</string>
+  <string name="s1">Запазването на изображението</string>
+  <string name="s2">Да се разреши ли рекламата да съхранява изображения в галерията със снимки?</string>
+  <string name="s3">Приеми</string>
+  <string name="s4">Откажи</string>
+  <string name="s5">Създаване на събитие в календара</string>
+  <string name="s6">Да се разреши ли рекламата да създаде събитие в календара?</string>
+  <string name="s7">Тестова реклама</string>
+  <string name="mintegral_reward_endcard_vast_notice">Искате ли да научите повече?</string>
+  <string name="mintegral_reward_install">Инсталирай сега</string>
 </resources>
