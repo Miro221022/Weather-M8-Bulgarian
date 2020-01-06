@@ -10,7 +10,6 @@
   <string name="act_weather_find_city_net_no_good">Не може да се свърже с мрежата.</string>
   <string name="act_weather_find_city_no_result">Няма резултати</string>
   <string name="act_weather_find_city_searching">Търсене…</string>
-  <string name="activity_detail_time_format">E</string>
   <string name="activity_find_city_dialog_cancel">Отказ</string>
   <string name="activity_find_city_dialog_message">Разрешете на програмата достъп до местоположението ви</string>
   <string name="activity_find_city_dialog_set">Настройки</string>
@@ -35,7 +34,6 @@
   <string name="activity_main_alert_wind_gusts">Очакват се пориви на вятъра с максимална скорост до %1$s.</string>
   <string name="activity_main_expire_time">Изтича %1$s</string>
   <string name="activity_main_refresh_fail">Няма връзка с мрежа</string>
-  <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Обновено %1$s</string>
   <string name="activity_main_update_time_expire">Данните не са актуални</string>
   <string name="activity_main_update_time_right_now">току-що</string>
@@ -52,6 +50,7 @@
   <string name="aqi_ring_desc">Индекс за качеството на въздуха</string>
   <string name="aqi_ring_top_pollution">Основни замърсители</string>
   <string name="aqi_sub_desc">ИКВ</string>
+  <string name="astronomy_title">Астрономия</string>
   <string name="button_add_city">Добави град</string>
   <string name="button_allow">OK</string>
   <string name="button_not_allow">Отказ</string>
@@ -111,6 +110,7 @@
   <string name="location_management">Местоположение</string>
   <string name="location_tag">Локализиране</string>
   <string name="menu_moon_phases">Фази на Луната</string>
+  <string name="mintegral_reward_endcard_ad">Реклама</string>
   <string name="mintegral_reward_endcard_vast_notice">Искате ли да научите повече?</string>
   <string name="mintegral_reward_install">Инсталирай сега</string>
   <string name="moon_age">Възраст: %1$s дни %2$s часа %3$s минути</string>
@@ -245,6 +245,17 @@
   <string name="share_weather_desc">\#Weather M8# Днес %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Не може да се направи екранна снимка</string>
+  <string name="smaato_sdk_core_browser_hostname_content_description">Име на хоста</string>
+  <string name="smaato_sdk_core_btn_browser_backward_content_description">Назад</string>
+  <string name="smaato_sdk_core_btn_browser_close_content_description">Затвори</string>
+  <string name="smaato_sdk_core_btn_browser_forward_content_description">Напред</string>
+  <string name="smaato_sdk_core_btn_browser_open_content_description">Отваряне във външен браузър</string>
+  <string name="smaato_sdk_core_btn_browser_refresh_content_description">Обновяване</string>
+  <string name="smaato_sdk_core_no_external_browser_found">Не е намерено приложение за браузър</string>
+  <string name="smaato_sdk_richmedia_collapse_mraid_ad">Свиване на MRAID реклама</string>
+  <string name="smaato_sdk_video_close_button_text">Бутон за затваряне</string>
+  <string name="smaato_sdk_video_mute_button_text">Бутон за заглушаване</string>
+  <string name="smaato_sdk_video_skip_button_text">Бутон за пропускане</string>
   <string name="sunrise">Изгрев</string>
   <string name="sunset">Залез</string>
   <string name="time_units_hour">ч</string>
@@ -262,7 +273,7 @@
   <string name="weather_details_humidity_title">Влажност</string>
   <string name="weather_details_precipitation_amount_in">%1$s инч</string>
   <string name="weather_details_precipitation_amount_mm">%1$s мм</string>
-  <string name="weather_details_precipitation_prob_title">Количество валежи</string>
+  <string name="weather_details_precipitation_prob_title">Валежи</string>
   <string name="weather_details_pressure_title">Налягане</string>
   <string name="weather_details_real_feel_title">"Усеща се като "</string>
   <string name="weather_details_temperature_title">Температура</string>
@@ -318,9 +329,10 @@
   <string name="widget_config_use_background_title">Показване на фона на приспособлението</string>
   <string name="widget_update_date_string">Обновено %s</string>
   <string name="widget_update_updating_string">Обновяване…</string>
-  <string name="wind_unit">%1$sкм/ч</string>
-  <string name="wind_unit_mph">%1$sм/ч</string>
-  <string name="wind_unit_ms">%1$sм/с</string>
+  <string name="widgets_notification_info">Актуализиране на приспособленията…</string>
+  <string name="wind_unit">%1$s км/ч</string>
+  <string name="wind_unit_mph">%1$s мили/ч</string>
+  <string name="wind_unit_ms">%1$s м/с</string>
   <string name="zodiac_aquarius">Водолей</string>
   <string name="zodiac_aries">Овен</string>
   <string name="zodiac_cancer">Рак</string>
